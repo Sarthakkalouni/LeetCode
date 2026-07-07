@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Sarthakkalouni/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Sarthakkalouni/LeetCode/tree/master/0054-spiral-matrix) |
 ## Matrix
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sarthakkalouni/LeetCode/tree/master/0049-group-anagrams) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
