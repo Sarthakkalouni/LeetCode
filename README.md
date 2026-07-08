@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/Sarthakkalouni/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Sarthakkalouni/LeetCode/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Sarthakkalouni/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -30,6 +32,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Sarthakkalouni/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +45,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
