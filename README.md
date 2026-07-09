@@ -46,4 +46,16 @@
 | ------- |
 | [0169-majority-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Sarthakkalouni/LeetCode/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Sarthakkalouni/LeetCode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Sarthakkalouni/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
