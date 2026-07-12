@@ -10,10 +10,12 @@
 | [0054-spiral-matrix](https://github.com/Sarthakkalouni/LeetCode/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0229-majority-element-ii) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sarthakkalouni/LeetCode/tree/master/0054-spiral-matrix) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 ## Simulation
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 | [0049-group-anagrams](https://github.com/Sarthakkalouni/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0229-majority-element-ii) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 ## Two Pointers
 |  |
 | ------- |
