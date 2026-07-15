@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0229-majority-element-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 ## Matrix
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0049-group-anagrams](https://github.com/Sarthakkalouni/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0229-majority-element-ii) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 ## String
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0169-majority-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0229-majority-element-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +70,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Sarthakkalouni/LeetCode/tree/master/0342-power-of-four) |
+## Greedy
+|  |
+| ------- |
+| [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 <!---LeetCode Topics End-->
