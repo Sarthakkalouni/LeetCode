@@ -16,6 +16,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Sarthakkalouni/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Sarthakkalouni/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Sarthakkalouni/LeetCode/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/Sarthakkalouni/LeetCode/tree/master/0835-image-overlap) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sarthakkalouni/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sarthakkalouni/LeetCode/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/Sarthakkalouni/LeetCode/tree/master/0835-image-overlap) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 ## Simulation
 |  |
