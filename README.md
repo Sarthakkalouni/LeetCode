@@ -18,6 +18,7 @@
 | [0724-find-pivot-index](https://github.com/Sarthakkalouni/LeetCode/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/Sarthakkalouni/LeetCode/tree/master/0835-image-overlap) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sarthakkalouni/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [0997-find-the-town-judge](https://github.com/Sarthakkalouni/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1706-where-will-the-ball-fall](https://github.com/Sarthakkalouni/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -43,6 +44,7 @@
 | [0229-majority-element-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sarthakkalouni/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Sarthakkalouni/LeetCode/tree/master/0645-set-mismatch) |
+| [0997-find-the-town-judge](https://github.com/Sarthakkalouni/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 ## String
 |  |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Sarthakkalouni/LeetCode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
