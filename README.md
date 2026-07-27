@@ -79,6 +79,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sarthakkalouni/LeetCode/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/Sarthakkalouni/LeetCode/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/Sarthakkalouni/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
@@ -89,6 +90,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sarthakkalouni/LeetCode/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/Sarthakkalouni/LeetCode/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Sarthakkalouni/LeetCode/tree/master/0997-find-the-town-judge) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sarthakkalouni/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
