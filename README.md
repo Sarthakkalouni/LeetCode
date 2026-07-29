@@ -22,6 +22,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1706-where-will-the-ball-fall](https://github.com/Sarthakkalouni/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2256-minimum-average-difference](https://github.com/Sarthakkalouni/LeetCode/tree/master/2256-minimum-average-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sarthakkalouni/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sarthakkalouni/LeetCode/tree/master/0724-find-pivot-index) |
+| [2256-minimum-average-difference](https://github.com/Sarthakkalouni/LeetCode/tree/master/2256-minimum-average-difference) |
 ## Sliding Window
 |  |
 | ------- |
