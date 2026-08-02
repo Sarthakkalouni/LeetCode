@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sarthakkalouni/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Sarthakkalouni/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Sarthakkalouni/LeetCode/tree/master/0049-group-anagrams) |
@@ -50,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sarthakkalouni/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Sarthakkalouni/LeetCode/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sarthakkalouni/LeetCode/tree/master/0002-add-two-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sarthakkalouni/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
