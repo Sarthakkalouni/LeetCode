@@ -15,6 +15,7 @@
 | [0229-majority-element-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0229-majority-element-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sarthakkalouni/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0523-continuous-subarray-sum](https://github.com/Sarthakkalouni/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0605-can-place-flowers](https://github.com/Sarthakkalouni/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Sarthakkalouni/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Sarthakkalouni/LeetCode/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/Sarthakkalouni/LeetCode/tree/master/0835-image-overlap) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Sarthakkalouni/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/Sarthakkalouni/LeetCode/tree/master/0605-can-place-flowers) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 ## Prefix Sum
 |  |
