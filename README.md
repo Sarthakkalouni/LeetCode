@@ -23,6 +23,7 @@
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sarthakkalouni/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0997-find-the-town-judge](https://github.com/Sarthakkalouni/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sarthakkalouni/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1706-where-will-the-ball-fall](https://github.com/Sarthakkalouni/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2256-minimum-average-difference](https://github.com/Sarthakkalouni/LeetCode/tree/master/2256-minimum-average-difference) |
