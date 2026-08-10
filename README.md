@@ -27,6 +27,7 @@
 | [1706-where-will-the-ball-fall](https://github.com/Sarthakkalouni/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2256-minimum-average-difference](https://github.com/Sarthakkalouni/LeetCode/tree/master/2256-minimum-average-difference) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Sarthakkalouni/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0002-add-two-numbers](https://github.com/Sarthakkalouni/LeetCode/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/Sarthakkalouni/LeetCode/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/Sarthakkalouni/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Sarthakkalouni/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
