@@ -137,10 +137,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sarthakkalouni/LeetCode/tree/master/0100-same-tree) |
 | [1020-number-of-enclaves](https://github.com/Sarthakkalouni/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sarthakkalouni/LeetCode/tree/master/0100-same-tree) |
 | [1020-number-of-enclaves](https://github.com/Sarthakkalouni/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
@@ -158,4 +160,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sarthakkalouni/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sarthakkalouni/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sarthakkalouni/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
