@@ -59,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sarthakkalouni/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Sarthakkalouni/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Sarthakkalouni/LeetCode/tree/master/0049-group-anagrams) |
 ## Sorting
@@ -77,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sarthakkalouni/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Sarthakkalouni/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sarthakkalouni/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Sarthakkalouni/LeetCode/tree/master/0027-remove-element) |
@@ -154,6 +156,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sarthakkalouni/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sarthakkalouni/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -171,4 +174,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sarthakkalouni/LeetCode/tree/master/0100-same-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sarthakkalouni/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
