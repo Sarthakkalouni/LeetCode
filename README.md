@@ -22,6 +22,7 @@
 | [0645-set-mismatch](https://github.com/Sarthakkalouni/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Sarthakkalouni/LeetCode/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/Sarthakkalouni/LeetCode/tree/master/0835-image-overlap) |
+| [0896-monotonic-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sarthakkalouni/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sarthakkalouni/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0997-find-the-town-judge](https://github.com/Sarthakkalouni/LeetCode/tree/master/0997-find-the-town-judge) |
