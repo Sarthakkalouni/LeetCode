@@ -29,6 +29,7 @@
 | [1020-number-of-enclaves](https://github.com/Sarthakkalouni/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sarthakkalouni/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sarthakkalouni/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1706-where-will-the-ball-fall](https://github.com/Sarthakkalouni/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2256-minimum-average-difference](https://github.com/Sarthakkalouni/LeetCode/tree/master/2256-minimum-average-difference) |
@@ -76,6 +77,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarthakkalouni/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/Sarthakkalouni/LeetCode/tree/master/0645-set-mismatch) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sarthakkalouni/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 ## Two Pointers
 |  |
