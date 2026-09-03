@@ -27,6 +27,7 @@
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sarthakkalouni/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0997-find-the-town-judge](https://github.com/Sarthakkalouni/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Sarthakkalouni/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Sarthakkalouni/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sarthakkalouni/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sarthakkalouni/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -40,6 +41,7 @@
 | [0054-spiral-matrix](https://github.com/Sarthakkalouni/LeetCode/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/Sarthakkalouni/LeetCode/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/Sarthakkalouni/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Sarthakkalouni/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Sarthakkalouni/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1706-where-will-the-ball-fall](https://github.com/Sarthakkalouni/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 ## Simulation
@@ -148,15 +150,18 @@
 | ------- |
 | [0100-same-tree](https://github.com/Sarthakkalouni/LeetCode/tree/master/0100-same-tree) |
 | [1020-number-of-enclaves](https://github.com/Sarthakkalouni/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Sarthakkalouni/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sarthakkalouni/LeetCode/tree/master/0100-same-tree) |
 | [1020-number-of-enclaves](https://github.com/Sarthakkalouni/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Sarthakkalouni/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/Sarthakkalouni/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Sarthakkalouni/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
