@@ -33,6 +33,7 @@
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sarthakkalouni/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1706-where-will-the-ball-fall](https://github.com/Sarthakkalouni/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2090-k-radius-subarray-averages](https://github.com/Sarthakkalouni/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2256-minimum-average-difference](https://github.com/Sarthakkalouni/LeetCode/tree/master/2256-minimum-average-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Sarthakkalouni/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Matrix
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sarthakkalouni/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [2090-k-radius-subarray-averages](https://github.com/Sarthakkalouni/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 ## Graph Theory
 |  |
 | ------- |
