@@ -34,6 +34,7 @@
 | [1706-where-will-the-ball-fall](https://github.com/Sarthakkalouni/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Sarthakkalouni/LeetCode/tree/master/2090-k-radius-subarray-averages) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2256-minimum-average-difference](https://github.com/Sarthakkalouni/LeetCode/tree/master/2256-minimum-average-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Sarthakkalouni/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Matrix
@@ -124,6 +125,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarthakkalouni/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Sarthakkalouni/LeetCode/tree/master/0605-can-place-flowers) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sarthakkalouni/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
 | ------- |
